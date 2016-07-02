@@ -12,5 +12,8 @@ parameter estimation
 
 Functions for different distributions:
 #1.Maximum likelihood estimation function - linear regression model
+Corn data set
 #2.Maximum likelihood estimation function - Zero Inflated poissson distribution
+Health data set
 # 3.Maximum likelihood estimation - Non linear regression
+Spending data set
